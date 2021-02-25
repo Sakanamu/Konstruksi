@@ -1,0 +1,5 @@
+C:\Users\rizal\source\repos\pencarian\pencarian\obj\Debug\pencarian.csprojAssemblyReference.cache
+C:\Users\rizal\source\repos\pencarian\pencarian\obj\Debug\pencarian.Form1.resources
+C:\Users\rizal\source\repos\pencarian\pencarian\obj\Debug\pencarian.Properties.Resources.resources
+C:\Users\rizal\source\repos\pencarian\pencarian\obj\Debug\pencarian.csproj.GenerateResource.cache
+C:\Users\rizal\source\repos\pencarian\pencarian\obj\Debug\pencarian.csproj.CoreCompileInputs.cache
